@@ -1,13 +1,12 @@
 <h1 align="center">Hey there! I'm Zhenya 👋</h1>
-<h3 align="center">Welcome to my GitHub — my journey to Japan 🇯🇵 and the world of tech</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
 ---
 
 ### 🧠 About Me:
-- 🌍 Passionate about code & dreaming of working in Japan  
+- 🌍 Passionate about code
 - 💻 Learning and leveling up in Web / Python / AI  
-- 📘 Currently diving into: **Pentesting & Japanese (Nihongo 🇯🇵)**  
-- 🎯 2025 Goal: Land an IT job & build a project I'm proud of
+- 📘 Currently diving into: **Pentesting & Deutsch**  
 - 🗻 My TryHackMe profile: https://tryhackme.com/p/shikataGaNai
 
 ---
@@ -38,14 +37,9 @@
 
 ---
 
-### 🗾 Words to live by:
->「七転び八起き」- *"Fall seven times, stand up eight."* <br/>
->「大きな力には大きな責任が伴う」- *"With great power comes great responsibility."*
-
----
 
 ### 📫 Let's Connect:
-- Email: evgeniyzotov34@gmail.com
+- Email: yevhenzotov0@gmail.com
 
 ---
 
